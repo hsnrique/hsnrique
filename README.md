@@ -21,7 +21,7 @@ I’m Henrique, a mobile developer, coder, coffee and sports lover. Keep scrolli
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/React%20Native-E34F26?style=for-the-badge&logo=react&logoColor=white)
+![](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![](https://img.shields.io/badge/Render-430098?style=for-the-badge&logo=render&logoColor=white)
