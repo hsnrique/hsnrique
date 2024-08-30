@@ -2,6 +2,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hsnrique/)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hsnrique/)
+[![Socials Badge](https://img.shields.io/badge/Socials-3f48d1?style=for-the-badge&logo=socials&logoColor=white)](https://beacons.ai/hsnrique/)
 
 Hello 👋
 
