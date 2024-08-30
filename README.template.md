@@ -2,10 +2,11 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hsnrique/)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hsnrique/)
+[![Socials Badge](https://img.shields.io/badge/Socials-3f48d1?style=for-the-badge&logo=socials&logoColor=white)](https://beacons.ai/hsnrique/)
 
 Hello 👋
 
-I’m Henrique, a mobile developer, coder and coffee lover. Keep scrolling and get to know more about me!
+I’m Henrique, a mobile developer, coder, coffee and sports lover. Keep scrolling and get to know more about me!
 
 <a href="https://github.com/hsnrique">
   <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsnrique&theme=dark"/>
