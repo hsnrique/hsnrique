@@ -18,5 +18,8 @@
   "homepage": "https://github.com/hsnrique/hsnrique#readme",
   "dependencies": {
     "isomorphic-unfetch": "^3.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.1"
   }
 }
