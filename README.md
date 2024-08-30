@@ -32,4 +32,3 @@ I’m Henrique, a mobile developer, coder and coffee lover. Keep scrolling and g
 <p>The best way to predict the future is to invent it.</p>
 
 <p>- Alan Kay</p>
-# hsnrique
