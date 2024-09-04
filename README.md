@@ -6,7 +6,7 @@
 
 Hello 👋
 
-I’m Henrique, a mobile developer, coder, coffee and sports lover. Keep scrolling and get to know more about me!
+I’m Henrique, an iOS developer, coder, coffee and sports lover. Keep scrolling and get to know more about me!
 
 <a href="https://github.com/hsnrique">
   <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsnrique&theme=dark"/>
